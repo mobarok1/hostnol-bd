@@ -8,6 +8,7 @@
    version="1.0"
    id="svg6"
    sodipodi:docname="logo-icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +21,16 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3800805"
+     inkscape:cx="201.46377"
+     inkscape:cy="170.79254"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
   <defs
      id="defs3">
     <clipPath
@@ -57,7 +67,8 @@
          d="M 35.058594,57.132812 H 337.33203 V 313.36719 H 35.058594 Z m 0,0"
          fill-opacity="1"
          fill-rule="nonzero"
-         id="path4" />
+         id="path4"
+         style="fill:#008080;fill-opacity:1" />
     </g>
   </g>
   <g

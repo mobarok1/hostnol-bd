@@ -7,15 +7,15 @@
     height: 50px;
 }
 .host-footer{
-    background-color: rgb(27, 27, 27);
+    background-color: rgb(41, 44, 44);
 }
 
 .primary-bg-dark{
-    background: #1e1049 !important
+    background: rgb(66, 150, 150) !important
 }
 
 .primary-bg-light{
-    background: #e9e6f0 !important
+    background: #ebe8f3 !important
 }
 
 .home-domain-card{
@@ -27,9 +27,43 @@
 }
 .home-domain-card li .domainName{
     font-weight: bold;
-    color: #1e1049;
     font-size: larger;
 }
 .home-domain-card li .domainPrice{
     
+}
+
+.home-hosting-plan img{
+    height: 170px;
+    width: 150px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.inline-btns{
+    margin-top: 10px;
+}
+.inline-btns .two{
+    margin-left: 5px;
+}
+.banner-heading h1{
+    font-size: xx-large;
+}
+.list-check{
+    margin-bottom: 20px;
+}
+.list-check li{
+    font-size: 16px;
+    line-height: 2.2;
+    color: black;
+}
+.list-check i{
+    margin-right: 5px;
+}
+.img-wrap img{
+    height: 350px;
+    width: 350px;
+}
+.hero-section{
+    margin-top: 30px;
+    margin-bottom: 50px;
 }

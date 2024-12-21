@@ -21,11 +21,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.3335412"
-     inkscape:cx="376.26536"
-     inkscape:cy="1797.3791"
+     inkscape:cx="990.88209"
+     inkscape:cy="1179.7643"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="39"
      inkscape:window-maximized="1"
      inkscape:current-layer="g331" />
@@ -35,11 +35,11 @@
        id="linearGradient333"
        inkscape:collect="always">
       <stop
-         style="stop-color:#ff883a;stop-opacity:1;"
+         style="stop-color:#26a99f;stop-opacity:1;"
          offset="0"
          id="stop333" />
       <stop
-         style="stop-color:#ff883a;stop-opacity:0.38289964;"
+         style="stop-color:#298ea2;stop-opacity:0.38289967;"
          offset="1"
          id="stop334" />
     </linearGradient>
@@ -2706,7 +2706,7 @@
                  ry="17.77"
                  transform="translate(-747.09 739.94) rotate(-40.23)"
                  id="ellipse175"
-                 style="fill:#7f2aff" />
+                 style="fill:#008080" />
               <ellipse
                  class="cls-95"
                  cx="682.25"
@@ -2742,7 +2742,7 @@
                class="cls-73"
                d="M1029.57,1219.55l-249.11-83.74c-6.28-2.11-11.37-8.91-11.37-15.19v-59.19c0-6.28,5.09-9.65,11.37-7.54l249.11,83.74c6.28,2.11,11.37,8.91,11.37,15.19v59.2c0,6.28-5.09,9.65-11.37,7.54Z"
                id="path181"
-               style="fill:#aa87de" />
+               style="fill:#008080" />
             <g
                id="g197">
               <polygon
@@ -2828,7 +2828,7 @@
                  ry="17.77"
                  transform="translate(-525.29 658.71) rotate(-40.23)"
                  id="ellipse198"
-                 style="fill:#7f2aff" />
+                 style="fill:#008080" />
               <ellipse
                  class="cls-33"
                  cx="682.25"
@@ -2864,7 +2864,7 @@
                class="cls-73"
                d="M1029.57,876.12l-249.11-83.74c-6.28-2.11-11.37-8.91-11.37-15.19v-59.19c0-6.28,5.09-9.65,11.37-7.54l249.11,83.74c6.28,2.11,11.37,8.91,11.37,15.19v59.19c0,6.28-5.09,9.65-11.37,7.54Z"
                id="path204"
-               style="fill:#aa87de" />
+               style="fill:#008080" />
             <g
                id="g220">
               <polygon
@@ -2950,7 +2950,7 @@
                  ry="17.77"
                  transform="translate(-303.49 577.49) rotate(-40.23)"
                  id="ellipse221"
-                 style="fill:#7f2aff" />
+                 style="fill:#008080" />
               <ellipse
                  class="cls-21"
                  cx="682.25"
@@ -3326,7 +3326,7 @@
              class="cls-133"
              points="2162.41 1171.6 2147.9 1144.86 2101.95 1130.38 2101.95 1243.35 2222.87 1281.45 2222.87 1190.65 2162.41 1171.6"
              id="polygon307"
-             style="fill:#8d5fd3" />
+             style="fill:#008080" />
         </g>
         <g
            id="g309">
@@ -3338,7 +3338,7 @@
              class="cls-133"
              points="2310.05 1218.12 2295.54 1191.38 2249.59 1176.9 2249.59 1289.87 2370.51 1327.97 2370.51 1237.17 2310.05 1218.12"
              id="polygon309"
-             style="fill:#8d5fd3" />
+             style="fill:#008080" />
         </g>
         <g
            id="g311">
@@ -3350,7 +3350,7 @@
              class="cls-133"
              points="2457.68 1264.64 2443.17 1237.9 2397.22 1223.42 2397.22 1336.39 2518.14 1374.49 2518.14 1283.69 2457.68 1264.64"
              id="polygon311"
-             style="fill:#8d5fd3" />
+             style="fill:#008080" />
         </g>
         <g
            id="g313">
@@ -3362,7 +3362,7 @@
              class="cls-133"
              points="2162.41 1367.19 2147.9 1340.45 2101.95 1325.97 2101.95 1438.94 2222.87 1477.04 2222.87 1386.24 2162.41 1367.19"
              id="polygon313"
-             style="fill:#8d5fd3" />
+             style="fill:#008080" />
         </g>
         <g
            id="g315">
@@ -3374,7 +3374,7 @@
              class="cls-133"
              points="2310.05 1413.71 2295.54 1386.97 2249.59 1372.49 2249.59 1485.46 2370.51 1523.56 2370.51 1432.76 2310.05 1413.71"
              id="polygon315"
-             style="fill:#8d5fd3" />
+             style="fill:#008080" />
         </g>
         <g
            id="g317">
@@ -3386,7 +3386,7 @@
              class="cls-133"
              points="2457.68 1460.23 2443.17 1433.49 2397.22 1419.01 2397.22 1531.98 2518.14 1570.08 2518.14 1479.28 2457.68 1460.23"
              id="polygon317"
-             style="fill:#8d5fd3" />
+             style="fill:#008080" />
         </g>
       </g>
       <path
@@ -3416,11 +3416,12 @@
                class="cls-36"
                d="M927.61,1285.91v222.57c0,107.7,53.47,207.73,143.27,267.34l167.06,111.03,167.31-111.03c42.21-28.14,76.24-65.23,100.54-107.7-22.26,31.47-50.66,58.84-83.66,81.1l-167.06,111.29-167.06-111.29c-89.8-59.61-143.26-159.64-143.26-267.34v-198.01c-5.89.77-11.51,1.54-17.14,2.05Z"
                id="path322"
-               style="fill:#4aaa0f;fill-opacity:1" />
+               style="fill:#006060;fill-opacity:1" />
             <path
                class="cls-10"
                d="M944.76,1283.86v198.01c0,107.71,53.47,207.74,143.26,267.34l167.06,111.29,167.06-111.29c33-22.26,61.4-49.63,83.66-81.1,27.63-47.84,42.72-102.59,42.72-159.64v-222.57c-79.82-7.93-203.64-38.63-310.58-145.57-99.26,99.52-213.62,133.03-293.18,143.52Z"
-               id="path323" />
+               id="path323"
+               style="fill:#008080" />
             <path
                class="cls-53"
                d="M1648.29,1187.67l-24.05.77c11.26,0,19.44-.26,24.05-.77Z"
