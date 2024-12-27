@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   viewBox="0 0 4300 3371.31"
+   version="1.1"
+   sodipodi:docname="speed-meter.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.1705206"
+     inkscape:cx="1386.9292"
+     inkscape:cy="1521.8103"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #c5cced;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ffd54f;
+      }
+
+      .cls-3 {
+        fill: #d9defb;
+      }
+
+      .cls-4 {
+        fill: #f45558;
+      }
+
+      .cls-5 {
+        fill: #384c54;
+      }
+
+      .cls-6 {
+        fill: #455a64;
+      }
+    </style>
+  </defs>
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1">
+    <g
+       id="_48"
+       data-name="48">
+      <g
+         id="g11">
+        <rect
+           class="cls-5"
+           x="430.05"
+           y="487.22"
+           width="2615.79"
+           height="1494.51"
+           id="rect1"
+           style="fill:#005544" />
+        <g
+           id="g6">
+          <rect
+             class="cls-6"
+             width="3475.89"
+             height="1130.28"
+             rx="215.29"
+             ry="215.29"
+             id="rect2"
+             style="fill:#008080" />
+          <g
+             id="g3">
+            <path
+               class="cls-4"
+               d="M284.78,565.14c0,95.55,77.1,172.66,172.64,172.66s170.98-77.11,170.98-172.66-77.12-172.65-170.98-172.65-172.64,77.1-172.64,172.65Z"
+               id="path2"
+               style="fill:#44aa00" />
+            <path
+               class="cls-2"
+               d="M708.99,565.14c0,95.55,77.1,172.66,172.64,172.66s170.98-77.11,170.98-172.66-77.12-172.65-170.98-172.65-172.64,77.1-172.64,172.65Z"
+               id="path3" />
+          </g>
+          <g
+             id="g5">
+            <rect
+               class="cls-5"
+               x="1448.5"
+               y="256.21"
+               width="1771.99"
+               height="138.73"
+               id="rect3"
+               style="fill:#005544" />
+            <rect
+               class="cls-5"
+               x="1448.5"
+               y="495.79"
+               width="1771.99"
+               height="138.73"
+               id="rect4"
+               style="fill:#005544" />
+            <rect
+               class="cls-5"
+               x="1448.5"
+               y="735.37"
+               width="1771.99"
+               height="138.73"
+               id="rect5"
+               style="fill:#005544" />
+          </g>
+        </g>
+        <g
+           id="g10">
+          <rect
+             class="cls-6"
+             y="1338.67"
+             width="3475.89"
+             height="1130.28"
+             rx="215.29"
+             ry="215.29"
+             id="rect6"
+             style="fill:#008080" />
+          <g
+             id="g7">
+            <path
+               class="cls-4"
+               d="M284.78,1903.81c0,95.55,77.1,172.66,172.64,172.66s170.98-77.11,170.98-172.66-77.12-172.65-170.98-172.65-172.64,77.1-172.64,172.65Z"
+               id="path6"
+               style="fill:#44aa00" />
+            <path
+               class="cls-2"
+               d="M708.99,1903.81c0,95.55,77.1,172.66,172.64,172.66s170.98-77.11,170.98-172.66-77.12-172.65-170.98-172.65-172.64,77.1-172.64,172.65Z"
+               id="path7" />
+          </g>
+          <g
+             id="g9">
+            <rect
+               class="cls-5"
+               x="1448.5"
+               y="1594.88"
+               width="1771.99"
+               height="138.73"
+               id="rect7" />
+            <rect
+               class="cls-5"
+               x="1448.5"
+               y="1834.46"
+               width="1771.99"
+               height="138.73"
+               id="rect8" />
+            <rect
+               class="cls-5"
+               x="1448.5"
+               y="2074.04"
+               width="1771.99"
+               height="138.73"
+               id="rect9" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g21">
+        <path
+           class="cls-3"
+           d="M3917.27,3371.31c237.85-274.9,382.73-632.42,382.73-1024.42,0-865.84-702.03-1565.27-1567.89-1565.27s-1567.89,699.43-1567.89,1565.27c0,392,144.9,749.53,382.75,1024.42h2370.29Z"
+           id="path11" />
+        <path
+           class="cls-1"
+           d="M1677.16,3102.2c-157.89-219.92-243.78-484.04-243.78-755.31,0-714.73,582.59-1296.17,1298.69-1296.17s1298.8,581.44,1298.8,1296.17c0,271.27-85.89,535.39-243.78,755.31H1677.16Z"
+           id="path12" />
+        <polygon
+           class="cls-4"
+           points="2903.16 2889.34 2560.84 2889.34 2731.99 1768.75 2903.16 2889.34"
+           id="polygon12"
+           style="fill:#008080" />
+        <path
+           class="cls-6"
+           d="M3028.18,3102.48h-592.36c0-164.45,132.62-296.18,296.17-296.18s296.18,131.73,296.18,296.18Z"
+           id="path13" />
+        <rect
+           class="cls-6"
+           x="2695.43"
+           y="1130.28"
+           width="73.38"
+           height="250.52"
+           id="rect13"
+           style="fill:#008080" />
+        <rect
+           class="cls-6"
+           x="2164.34"
+           y="1272.59"
+           width="73.38"
+           height="250.52"
+           transform="translate(-404.04 1287.79) rotate(-30)"
+           id="rect14"
+           style="fill:#008080" />
+        <g
+           id="g16">
+          <rect
+             class="cls-6"
+             x="3615.32"
+             y="2723.58"
+             width="73.38"
+             height="250.52"
+             transform="translate(-641.16 4587.16) rotate(-60)"
+             id="rect15"
+             style="fill:#008080" />
+          <rect
+             class="cls-6"
+             x="1775.54"
+             y="1661.38"
+             width="73.38"
+             height="250.52"
+             transform="translate(-641.16 2462.76) rotate(-60)"
+             id="rect16"
+             style="fill:#008080" />
+        </g>
+        <g
+           id="g18">
+          <rect
+             class="cls-6"
+             x="3669.06"
+             y="2281.05"
+             width="250.52"
+             height="73.38"
+             id="rect17"
+             style="fill:#008080" />
+          <rect
+             class="cls-6"
+             x="1544.67"
+             y="2281.05"
+             width="250.52"
+             height="73.38"
+             id="rect18"
+             style="fill:#008080" />
+        </g>
+        <g
+           id="g20">
+          <rect
+             class="cls-6"
+             x="3526.75"
+             y="1749.95"
+             width="250.52"
+             height="73.38"
+             transform="translate(-404.04 2065.37) rotate(-30)"
+             id="rect19"
+             style="fill:#008080" />
+          <rect
+             class="cls-6"
+             x="1686.97"
+             y="2812.15"
+             width="250.52"
+             height="73.38"
+             transform="translate(-1181.63 1287.79) rotate(-30)"
+             id="rect20"
+             style="fill:#008080" />
+        </g>
+        <rect
+           class="cls-6"
+           x="3137.96"
+           y="1361.16"
+           width="250.52"
+           height="73.38"
+           transform="translate(421.04 3524.96) rotate(-60)"
+           id="rect21"
+           style="fill:#008080" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .logo img{
-    width: 140px;
+    width: 160px;
     height: 50px;
 }
 .host-footer{
@@ -15,7 +15,7 @@
 }
 
 .primary-bg-light{
-    background: #ebe8f3 !important
+    background: #f9f9fa !important
 }
 
 .home-domain-card{
@@ -66,4 +66,42 @@
 .hero-section{
     margin-top: 30px;
     margin-bottom: 50px;
+}
+
+.home-feature-icon-1{
+    height: 60px;
+    width: 60px;
+}
+.nav-item a{
+    font-weight: bold;
+}
+.bg-black-light{
+    background-color: rgb(67, 67, 70);
+}
+.bg-purple{
+    background-color: rgb(130, 12, 209);
+}
+.bg-blue-sky{
+    background-color: rgb(54, 187, 211);
+}
+
+@media(min-width: 320px)and (max-width: 767px) {
+    .hero-section-home-main{
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    .domain-search-wrap{
+        margin-top: 0px;
+    }
+}
+@media(min-width: 768px)and (max-width: 1023px) {
+    
+    .domain-search-wrap{
+        margin-top: -50px;
+    }
+}
+
+.pricing-feature-list li::before{
+    content: "✔ ";
+    color: teal;
 }

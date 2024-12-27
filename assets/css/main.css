@@ -5074,7 +5074,7 @@ fieldset:disabled .btn {
     }
 }
 
-@media(min-width: 768px) {
+@media(min-width: 1024px) {
     .navbar-expand-md {
         -ms-flex-wrap: nowrap;
         flex-wrap: nowrap;
@@ -32294,7 +32294,7 @@ h6,
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    color: #014cda
+    color: #008080ff
 }
 
 .fixed-top {
@@ -32809,6 +32809,7 @@ h6,
 
 .title-with-icon-link:hover {
     background: #fafafa;
+    color: #008080ff;
     border-radius: .375rem
 }
 
@@ -34144,7 +34145,7 @@ input[type=search]::-webkit-search-results-decoration {
 [data-overlay]:before {
     position: absolute;
     content: "";
-    background: linear-gradient(75deg, #073482, #013aa7) !important;
+    background: linear-gradient(75deg, #008080ff, #008080ff) !important;
     width: 100%;
     height: 100%;
     top: 0;
@@ -34487,17 +34488,7 @@ input[type=search]::-webkit-search-results-decoration {
 
 .single-promo-card.single-promo-hover {
     overflow: hidden;
-    z-index: 1
-}
-
-.single-promo-card.single-promo-hover:hover {
-    color: #fff
-}
-
-.single-promo-card.single-promo-hover:hover span,
-.single-promo-card.single-promo-hover:hover h5,
-.single-promo-card.single-promo-hover:hover .h5 {
-    color: #fff !important
+    z-index: 1;
 }
 
 .single-promo-card.single-promo-hover:hover:before {
@@ -34508,7 +34499,7 @@ input[type=search]::-webkit-search-results-decoration {
     width: 100%;
     height: 100%;
     border-radius: 0;
-    background-color: #008080ff
+    background-color: #e9e8e8
 }
 
 .single-promo-card.single-promo-hover:before {
@@ -34519,14 +34510,13 @@ input[type=search]::-webkit-search-results-decoration {
     height: 95px;
     bottom: -50px;
     border-radius: 35px;
-    background-color: #008080ff;
+    background-color: #e9e8e8;
     -webkit-transition: all .3s;
     transition: all .3s;
     z-index: -1
 }
 
 .single-promo-card.single-promo-hover-2:hover {
-    background-color: #008080ff;
     color: #fff
 }
 
@@ -34658,11 +34648,11 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 .custom-dot.owl-theme .owl-dots button.owl-dot span:hover {
-    background: #f67a3c
+    background: #008080ff
 }
 
 .custom-dot.owl-theme .owl-dots button.owl-dot.active span {
-    background: #f67a3c
+    background: #008080ff
 }
 
 .custom-dot.owl-theme .owl-dots .owl-dot span {
@@ -35493,7 +35483,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 .single-review-wrap .review-author .author-avatar span {
-    background-color: #014cda;
+    background-color: #008080ff;
     width: 32px;
     height: 32px;
     display: -webkit-box;
@@ -37322,7 +37312,6 @@ blockquote p:last-of-type:after {
 
 .single-pricing-pack .pricing-header {
     padding: 30px;
-    background: #f8fafc
 }
 
 .single-pricing-pack .pricing-header h6,
@@ -38660,6 +38649,3 @@ table>tbody>tr>td:first-child:before {
 .theme-3-tertiary {
     background-color: #1062fe
 }
-
-/*# sourceMappingURL=scss */
-/*# sourceMappingURL=main.css.map */
